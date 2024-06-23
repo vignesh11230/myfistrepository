@@ -1,0 +1,16 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    top: 100px;
+    left:100px;
+    transition: all 2s ease-in 0.5s;
+    position: relative;
+}
+div:hover{
+    background-color: brown;
+    color: aqua;
+    font-family: cursive;
+    transform:scalex(2)
+
+}
