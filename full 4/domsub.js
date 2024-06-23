@@ -1,0 +1,1 @@
+let animals=["tiger","dog","monkey","lion","zebra"]
